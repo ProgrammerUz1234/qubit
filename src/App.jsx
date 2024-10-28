@@ -1,10 +1,10 @@
 import React from "react";
-import CakeCont from "./components/CakeCont";
+import Navbar from "./components/Navbar/Navbar.jsx";
 
 const App = () => {
     return (
         <div>
-            <CakeCont />
+            <Navbar />
         </div>
     );
 };
